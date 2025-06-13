@@ -39,14 +39,14 @@ GUI를 제공하여 누구나 직관적으로 사용할 수 있습니다.
 
 #### 단계 1: Python 3 설치 확인 및 설치
 
-컴퓨터에 Python이 설치되어 있어야 합니다. 설치되어 있지 않다면 아래 공식 사이트에서 다운로드하여 설치해주세요.
+컴퓨터에 설치되어 있지 않다면 아래 공식 사이트에서 다운로드하여 설치
 
 -   [Python 공식 다운로드 페이지](https://www.python.org/downloads/)
--   **중요**: 설치 과정에서 **"Add Python to PATH"** 또는 **"Add python.exe to PATH"** 옵션을 반드시 체크해주세요.
--   터미널에서 python --version 입력시 Python 3.x.x 이런식으로 떠야함 안뜨면 재설치
+-   **중요**: 설치 과정에서 **"Add Python to PATH"** 또는 **"Add python.exe to PATH"** 옵션을 반드시 체크
+-   터미널에서 python --version 입력시 Python 3.x.x 이런식으로 떠야함 안뜨면 python 삭제 후 재설치
 #### 단계 2: 소스 코드 다운로드
 
-아래 Git 명령어를 사용하여 터미널에서 프로젝트를 복제합니다.
+아래 Git 명령어를 사용하여 터미널에서 프로젝트를 복제
 
 폴더를 만든후 그 터미널에서 그 주소로 이동 (cd 주소)
 
