@@ -42,10 +42,23 @@
 
 -   [Python 공식 다운로드 페이지](https://www.python.org/downloads/)
 -   **중요**: 설치 과정에서 **"Add Python to PATH"** 또는 **"Add python.exe to PATH"** 옵션을 반드시 체크해주세요.
-
+-   터미널에서 python --version 입력시 Python 3.x.x 이런식으로 떠야함 안뜨면 재설치
 #### 단계 2: 소스 코드 다운로드
 
-아래 Git 명령어를 사용하여 터미널(Windows의 경우 CMD 또는 PowerShell)에서 프로젝트를 복제(clone)합니다.
+아래 Git 명령어를 사용하여 터미널에서 프로젝트를 복제합니다.
 
-```bash
-git clone [이 저장소의 URL]
+폴더를 만든후 그 터미널에서 그 주소로 이동 (cd 주소)
+
+git init 후
+
+git clone https://github.com/mwook05/bmi-calculator-python.git  입력
+
+#### 단계 3: 실행
+
+git init 한 파일에 들어가서 bmi-calculator-python 파일 클릭 후 주소 복사
+
+터미널에 복사해 놓은 주소로 이동 (cd 주소)
+
+python main.py 입력 
+
+
