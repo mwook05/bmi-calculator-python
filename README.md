@@ -43,7 +43,7 @@ GUI를 제공하여 누구나 직관적으로 사용할 수 있습니다.
 
 -   [Python 공식 다운로드 페이지](https://www.python.org/downloads/)
 -   **중요**: 설치 과정에서 **"Add Python to PATH"** 또는 **"Add python.exe to PATH"** 옵션을 반드시 체크
--   터미널에서 python --version 입력시 Python 3.x.x 이런식으로 떠야함 안뜨면 python 삭제 후 재설치
+-   ***터미널에서 python --version 입력시 Python 3.x.x 이런식으로 떠야함 안뜨면 python 삭제 후 재설치***
 #### 단계 2: 소스 코드 다운로드
 
 아래 Git 명령어를 사용하여 터미널에서 프로젝트를 복제
